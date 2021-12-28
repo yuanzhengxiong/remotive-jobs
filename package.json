@@ -1,7 +1,6 @@
 {
   "name": "jobfinder",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,15 @@
     "express": "^4.17.2",
     "node-fetch": "^2.6.6",
     "redis": "^4.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanzhengxiong/remotive-jobs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuanzhengxiong/remotive-jobs/issues"
+  },
+  "homepage": "https://github.com/yuanzhengxiong/remotive-jobs#readme",
+  "description": ""
 }
