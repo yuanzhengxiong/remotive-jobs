@@ -11,3 +11,5 @@ This is a full-stack web application which can shows a list of remotive jobs. Th
 9. `node api/index.js` to start api
 10. `cd client`
 11. `yarn start` or `npm start`
+
+![](./misc/remotive-jobs.gif)
