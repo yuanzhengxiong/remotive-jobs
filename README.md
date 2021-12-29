@@ -1,3 +1,5 @@
+This is a full-stack web application which can shows a list of remotive jobs. The data is collected from https://remotive.io/. To run it on your local machine, please follow the folowing steps:
+
 1. clone repository
 2. `cd remotive-jobs`
 3. `npm install`
